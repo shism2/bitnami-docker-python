@@ -1,0 +1,9 @@
+
+vscode:
+  extensions:
+    - ms-azuretools.vscode-docker
+    - eamodio.gitlensvscode:
+    - exiasr.hadolint  extensions:
+    - laike9m.cyberbrain
+    - ms-python.python
+    - kevinrose.vsc-python-indent
