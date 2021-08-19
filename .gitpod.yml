@@ -2,8 +2,9 @@
 vscode:
   extensions:
     - ms-azuretools.vscode-docker
-    - eamodio.gitlensvscode:
-    - exiasr.hadolint  extensions:
     - laike9m.cyberbrain
     - ms-python.python
     - kevinrose.vsc-python-indent
+    - jeff-hykin.better-dockerfile-syntax
+    - github.vscode-pull-request-github
+    - eamodio.gitlens
