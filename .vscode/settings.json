@@ -1,0 +1,14 @@
+{
+    "search.maintainFileSearchCache": true,
+    "notebook.consolidatedRunButton": true,
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.autoComplete.addBrackets": true,
+    "python.linting.banditEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.prospectorEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pylamaEnabled": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
