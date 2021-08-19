@@ -8,3 +8,4 @@ vscode:
     - jeff-hykin.better-dockerfile-syntax
     - github.vscode-pull-request-github
     - eamodio.gitlens
+    - exiasr.hadolint
